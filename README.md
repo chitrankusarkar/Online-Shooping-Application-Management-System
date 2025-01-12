@@ -1,5 +1,5 @@
 
-# Online Shopping Application Management System
+# Shopping Application Management System
 
 ![Java](https://img.shields.io/badge/Java-Swing-blue)  
 ![MySQL](https://img.shields.io/badge/MySQL-backend-orange)  
