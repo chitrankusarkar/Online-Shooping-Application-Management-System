@@ -7,7 +7,7 @@
 
 ## Overview
 
-An **Online Shopping Application Management System** designed to provide a seamless shopping experience for users and robust administrative tools for system management. 
+A **Shopping Application Management System** designed to provide a seamless shopping experience for users and robust administrative tools for system management. 
 
 ### Features
 **For Users:**
